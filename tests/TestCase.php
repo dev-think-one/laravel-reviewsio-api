@@ -14,7 +14,7 @@ class TestCase extends \Orchestra\Testbench\TestCase
     /**
      * Define environment setup.
      *
-     * @param  \Illuminate\Foundation\Application  $app
+     * @param \Illuminate\Foundation\Application $app
      *
      * @return void
      */
@@ -26,6 +26,8 @@ class TestCase extends \Orchestra\Testbench\TestCase
             'database' => ':memory:',
             'prefix'   => '',
         ]);
+
+        $app['config']->set('reviewsio.api.store', 'Default store');
 
         // $app['config']->set('reviewsio.some_key', 'some_value');
     }

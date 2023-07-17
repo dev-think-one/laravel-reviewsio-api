@@ -12,12 +12,12 @@ class Response extends AbstractEndpointResponse
 
     public function storeName(): string
     {
-        return (string) $this->baseResponse()->json('stats.store.name');
+        return (string) $this->baseResponse()->json('store.name');
     }
 
     public function storeLogo(): string
     {
-        return (string) $this->baseResponse()->json('stats.store.logo');
+        return (string) $this->baseResponse()->json('store.logo');
     }
 
     public function averageRating(): float
