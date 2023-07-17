@@ -1,16 +1,16 @@
 {
-    "name": "yaroslawww/laravel-reviewsio-api",
-    "description": "Download ipro data yo your own database.",
+    "name": "think.studio/laravel-reviewsio-api",
+    "description": "Laravel reviews.io api.",
     "keywords": [
         "laravel",
         "reviews.io"
     ],
-    "homepage": "https://github.com/yaroslawww/laravel-reviewsio-api",
+    "homepage": "https://github.com/dev-think-one/laravel-reviewsio-api",
     "license": "MIT",
     "authors": [
         {
             "name": "Yaroslav Georgitsa",
-            "email": "yaroslav.georgitsa@gmail.com",
+            "email": "yg@think.studio",
             "homepage": "https://github.com/yaroslawww",
             "role": "Developer"
         }

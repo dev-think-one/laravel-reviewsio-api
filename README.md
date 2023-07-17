@@ -1,11 +1,11 @@
 # Laravel reviews.io api.
 
-![Packagist License](https://img.shields.io/packagist/l/yaroslawww/laravel-reviewsio-api?color=%234dc71f)
-[![Packagist Version](https://img.shields.io/packagist/v/yaroslawww/laravel-reviewsio-api)](https://packagist.org/packages/yaroslawww/laravel-reviewsio-api)
-[![Total Downloads](https://img.shields.io/packagist/dt/yaroslawww/laravel-reviewsio-api)](https://packagist.org/packages/yaroslawww/laravel-reviewsio-api)
-[![Build Status](https://scrutinizer-ci.com/g/yaroslawww/laravel-reviewsio-api/badges/build.png?b=main)](https://scrutinizer-ci.com/g/yaroslawww/laravel-reviewsio-api/build-status/main)
-[![Code Coverage](https://scrutinizer-ci.com/g/yaroslawww/laravel-reviewsio-api/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/yaroslawww/laravel-reviewsio-api/?branch=main)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/yaroslawww/laravel-reviewsio-api/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/yaroslawww/laravel-reviewsio-api/?branch=main)
+![Packagist License](https://img.shields.io/packagist/l/think.studio/laravel-reviewsio-api?color=%234dc71f)
+[![Packagist Version](https://img.shields.io/packagist/v/think.studio/laravel-reviewsio-api)](https://packagist.org/packages/think.studio/laravel-reviewsio-api)
+[![Total Downloads](https://img.shields.io/packagist/dt/think.studio/laravel-reviewsio-api)](https://packagist.org/packages/think.studio/laravel-reviewsio-api)
+[![Build Status](https://scrutinizer-ci.com/g/dev-think-one/laravel-reviewsio-api/badges/build.png?b=main)](https://scrutinizer-ci.com/g/dev-think-one/laravel-reviewsio-api/build-status/main)
+[![Code Coverage](https://scrutinizer-ci.com/g/dev-think-one/laravel-reviewsio-api/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/dev-think-one/laravel-reviewsio-api/?branch=main)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/dev-think-one/laravel-reviewsio-api/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/dev-think-one/laravel-reviewsio-api/?branch=main)
 
 API docs are [there](https://api.reviews.io/documentation/index.html).
 
@@ -17,7 +17,7 @@ NOTE: currently there is small coverage of api endpoints, and oriented to open a
 Install the package via composer:
 
 ```bash
-composer require yaroslawww/laravel-reviewsio-api
+composer require think.studio/laravel-reviewsio-api
 ```
 
 Optionally you can publish the config file with:
